@@ -1,9 +1,11 @@
 ---
-title: Agile. Avid. Analytical.
+title: About me
 layout: page
-description: Manish Dabhi
+description: about
 bodyClass: page-about
 ---
+
+# Agile. Avid. Analytical
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
