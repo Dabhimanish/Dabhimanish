@@ -1,7 +1,7 @@
 ---
 title: Agile. Avid. Analytical.
 layout: page
-description: About
+description: Manish Dabhi
 bodyClass: page-about
 ---
 
