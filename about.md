@@ -24,6 +24,7 @@ Below are some areas where I have leveraged my expertise to help employers and c
 
 ## Certifications and Internships
 
+
 I firmly believe in keeping oneself updated and adapting felexibility with aiming to learn new technologies. Learning and leveraging the same knowledge after internships as well as projects is what I see to make it work and solve real world problems.
 
 Do explore below mentioned some of my learnings ...
