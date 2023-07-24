@@ -1,5 +1,5 @@
 ---
-title: **Important:** Agile. Avid. Analytical.
+title: Agile. Avid. Analytical.
 layout: page
 description: About
 bodyClass: page-about
