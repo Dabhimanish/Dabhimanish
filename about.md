@@ -9,7 +9,7 @@ bodyClass: page-about
 
 I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and analysis of existing business processes.
 
-![Accounting Services](/"C:\Users\mmdab\Downloads\20220727_103508.jpg")
+![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg")
 
 # Objectives
 
