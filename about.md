@@ -15,12 +15,12 @@ I have a penchant for identifying areas of improvement and devising effective st
 
 Below are some areas where I have leveraged my expertise to help employers and clients.
 
-> **Important:** Agile Business Analysis.
-> **Important:** Data Strategy, Analysis & Visualization.
-> **Important:** Business Strategy & Plan Formation.
-> **Important:** Effective Elicitation & Collaboration.
-> **Important:** Requirement analysis & Documentation.
-> **Important:** Team management.
+- Agile Business Analysis.
+- Data Strategy, Analysis & Visualization.
+- Business Strategy & Plan Formation.
+- Effective Elicitation & Collaboration.
+**Important:** Requirement analysis & Documentation.
+**Important:** Team management.
 
 <!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
 
