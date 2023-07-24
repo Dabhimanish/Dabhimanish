@@ -7,11 +7,24 @@ bodyClass: page-about
 
 # Agile. Avid. Analytical.
 
+Let's introduce about myself
+
 I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and optimization of existing business processes.
+
+I have a penchant for identifying areas of improvement and devising effective strategies to enhance business operations. My professional acumen and analytical skills enable me to deliver exceptional results to our clients. I have worked with clients from various domains like BFSI, Automobile, Manufacturing, Stock & Share trading, the Government sector, and Education.
+
+Below are some areas where I have leveraged my expertise to help employers and clients.
+
+> **Important:** Agile Business Analysis.
+> **Important:** Data Strategy, Analysis & Visualization.
+> **Important:** Business Strategy & Plan Formation.
+> **Important:** Effective Elicitation & Collaboration.
+> **Important:** Requirement analysis & Documentation.
+> **Important:** Team management.
 
 <!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
 
-# Objectives
+<!-- # Objectives
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -76,12 +89,12 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
   - property
   - building
   - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+<!-- - **intangible assets** -->
+  <!-- - copyrights -->
+  <!-- - trademarks -->
+  <!-- - patents -->
+    <!-- - pending -->
+    <!-- - international -->
+<!-- - goodwill -->
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
