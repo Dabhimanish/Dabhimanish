@@ -19,8 +19,29 @@ Below are some areas where I have leveraged my expertise to help employers and c
 - Data Strategy, Analysis & Visualization.
 - Business Strategy & Plan Formation.
 - Effective Elicitation & Collaboration.
-**Important:** Requirement analysis & Documentation.
-**Important:** Team management.
+- Requirement analysis & Documentation.
+- Team management.
+
+## Certifications and Internships
+
+I firmly believe in keeping oneself updated and adapting felexibility with aiming to learn new technologies. Learning and leveraging the same knowledge after internships as well as projects is what I see to make it work and solve real world problems.
+
+Do explore below mentioned some of my learnings ...
+
+- Data Strategy (365 Careers)
+- IT Business Analysis (Udemy)
+- SQL for Data Analytics (Start-tech Academy)
+- Effective usage of Agile methodology (Cognizant USA)
+- Data analytics - Virtual internship (Accenture USA)
+- Data analytics with Power BI - Virtual internship (Pwc Switzerland)
+- Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
+- Management Development Program (NTPC school of business & IIM-A)
+- Data analytics - Virtual internship (KPMG Australia)
+- Data analytics - Virtual internship (ANZ Bank Australia)
+- BI Analyst (365 Careers)
+- Microsoft Power BI (Udemy)
+- Tableau for data science (Super data science)
+- Data analysis with Microsoft Excel (Udemy)
 
 <!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
 
@@ -97,4 +118,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     <!-- - international -->
 <!-- - goodwill -->
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
+<!-- Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. --> -->
