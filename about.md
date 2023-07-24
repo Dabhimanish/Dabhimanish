@@ -7,11 +7,9 @@ bodyClass: page-about
 
 # Agile. Avid. Analytical
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and analysis of existing business processes.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/"C:\Users\mmdab\Downloads\20220727_103508.jpg")
 
 # Objectives
 
