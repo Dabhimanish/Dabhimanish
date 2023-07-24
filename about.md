@@ -5,11 +5,11 @@ description: about
 bodyClass: page-about
 ---
 
-# Agile. Avid. Analytical
+# Agile. Avid. Analytical.
 
-I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and analysis of existing business processes.
+I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and optimization of existing business processes.
 
-![Accounting Services](/images/20220727_103508.jpg)
+<!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
 
 # Objectives
 
