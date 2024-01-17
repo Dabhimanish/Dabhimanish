@@ -6,7 +6,7 @@ weight: 1
 
 By providing practical recommendations and actionable business strategies to our partners we help them improve their operations, achieve their goals, and solve complex business problems.
 
-![Accounting](images/Business Consulting.png)
+![Accounting](/images/Business Consulting.png)
 
 ## Business Analysis
 
