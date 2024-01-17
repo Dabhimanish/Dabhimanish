@@ -4,13 +4,9 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## How It Works
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+1. **Consultation:** Schedule a free consultation to discuss your requirements.
+2. **Proposal:** Receive a detailed proposal with a breakdown of services and costs.
+3. **Development:** Watch your project come to life with our skilled consultants.
+4. **Delivery:** We ensure timely delivery and provide ongoing support.
