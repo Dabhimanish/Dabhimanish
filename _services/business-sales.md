@@ -6,7 +6,7 @@ weight: 2
 
 As data is becoming increasingly important in the modern business world, we help organizations to understand their data, to identify opportunities for improvement, and to implement solutions that will help them to achieve their goals.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/Data Consulting.png)
 
 ## Data Analytics & Insight
 
