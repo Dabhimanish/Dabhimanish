@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Flexibility",
+    "description": "Scale up or down as per business needs with seamless support.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Expertise",
+    "description": "To think outside the box and come up with creative solutions.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Efficient",
+    "description": "Save overhead cost without compromising on desired skills.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
