@@ -6,7 +6,7 @@ weight: 1
 
 By providing practical recommendations and actionable business strategies to our partners we help them improve their operations, achieve their goals, and solve complex business problems.
 
-![Business Consulting Services](Dabhimanish/Dabhimanish/images/Business Consulting.png)
+![Dabhimanish/Dabhimanish/_services/accounting.md](Dabhimanish/Dabhimanish/images/Business Consulting.png)
 
 ## Business Analysis
 
