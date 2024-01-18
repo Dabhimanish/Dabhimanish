@@ -7,42 +7,72 @@ bodyClass: page-about
 
 # Agile. Avid. Analytical.
 
-Let's introduce about myself
+Welcome to my portfolio! 
 
-I am a Consultant having a decade of experience, I am specialized in assisting companies through the use of data-driven decision-making techniques, developing innovative products, and optimization of existing business processes.
+With over a decade of experience spanning diverse industries such as Banking and Finance, Automobile, Stock and Share Trading, Government, and Education, I am an enthusiastic and dedicated professional committed to driving success through strategic thinking and data-driven insights.
 
-I have a penchant for identifying areas of improvement and devising effective strategies to enhance business operations. My professional acumen and analytical skills enable me to deliver exceptional results to our clients. I have worked with clients from various domains like BFSI, Automobile, Manufacturing, Stock & Share trading, the Government sector, and Education.
+In my journey, I have demonstrated a remarkable track record in project leadership, data analysis, and the successful implementation of business solutions. My passion lies in contributing to various business dimensions, whether through full-time commitments or engaging freelance opportunities.
 
-Below are some areas where I have leveraged my expertise to help employers and clients.
+My expertise encompasses a spectrum of areas including:
 
-- Agile Business Analysis.
-- Data Strategy, Analysis & Visualization.
-- Business Strategy & Plan Formation.
-- Effective Elicitation & Collaboration.
-- Requirement analysis & Documentation.
-- Team management.
+- **Business Analysis / Management Consulting:** Offering a keen understanding of business processes and a talent for devising effective solutions using different frameworks like Agile, Waterfall, etc.
 
-## Certifications and Internships
+- **Data-Driven Decision-Making:** Proficient in Data Strategy, Analysis, and Visualization, utilizing tools such as Microsoft Excel, SQL, Microsoft Power BI, and Tableau to extract meaningful insights.
+
+- **Business Strategy Formation:** Adept at crafting robust business strategies that drive growth and innovation.
+
+- **Elicitation & Collaboration:** Skilled in gathering requirements through effective communication and collaboration with diverse stakeholders.
+
+- **Requirement Analysis:** Ensuring a comprehensive understanding of project requirements for seamless execution using various documentation as well as methods like BRD, FRD, User Stories, Use Case, etc.
+
+- **Business Plan and Strategy Formation:** Developing impactful business plans that align with organizational objectives.
+
+- **Team Leadership and Collaboration:** A proven leader with the ability to foster collaboration and achieve collective goals.
+
+I bring a dynamic skill set coupled with hands-on experience in handling intricate data analyses and visualizations. My proficiency in technical tools such as Microsoft Excel, SQL, Microsoft Power BI, JIRA, Microsoft Visio, Axure, and Tableau underscores my commitment to staying at the forefront of industry advancements.
+
+As a quick learner and adaptable professional, I can leverage my skills and experience to make a positive impact, contributing to the success and growth of forward-thinking organizations. 
+
+Let's collaborate for excellence!
+
+##  Internships and Certifications
 
 
-I firmly believe in keeping oneself updated and adapting felexibility with aiming to learn new technologies. Learning and leveraging the same knowledge after internships as well as projects is what I see to make it work and solve real world problems.
+I firmly believe in keeping myself updated and adapting felexibility with aiming to learn new technologies. Learning and leveraging the same knowledge from internships as well as projects is what I see to make it work and solve real world problems.
 
 Do explore below mentioned some of my learnings ...
 
-- Data Strategy (365 Careers)
-- IT Business Analysis (Udemy)
-- SQL for Data Analytics (Start-tech Academy)
-- Effective usage of Agile methodology (Cognizant USA)
-- Data analytics - Virtual internship (Accenture USA)
-- Data analytics with Power BI - Virtual internship (Pwc Switzerland)
-- Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
-- Management Development Program (NTPC school of business & IIM-A)
-- Data analytics - Virtual internship (KPMG Australia)
-- Data analytics - Virtual internship (ANZ Bank Australia)
-- BI Analyst (365 Careers)
-- Microsoft Power BI (Udemy)
-- Tableau for data science (Super data science)
-- Data analysis with Microsoft Excel (Udemy)
+>  Internships
+
+| **Internship**                             | **Certified by**                             |
+| ------------------------------------------ | -------------------------------------------- |
+| Technical Consulting                       | SAP - USA                                    |
+| Agile methodology                          | Cognizant - USA                              |
+| Data analytics with Power BI               | Pwc - Switzerland                            |
+| Data analytics                             | Accenture - USA                              |
+| Data analytics                             | KPMG - Australia                             |
+| Data analytics                             | ANZ Bank - New Zealand                       |
+
+>  Certifications
+
+| **Certification**                          | **Certified by**                             |
+| ------------------------------------------ | -------------------------------------------- |
+| Project Management                         | Google & Coursera - To be completed by 04/24 |
+| Essential Generative AI                    | Microsoft & LinkedIn                         |
+| Decision intelligence                      | LinkedIn                                     |
+| Generative AI for Business Leaders         | LinkedIn                                     |
+| Generative AI for Project Management       | LinkedIn                                     |
+| Data Strategy                              | Bernard Marr & 365 Careers                   |
+| Power BI - Data Modelling                  | Microsoft                                    |
+| IT Business Analysis                       | Udemy                                        |
+| SQL for Data Analytics                     | Start-tech Academy                           |
+| Microsoft Power BI Desktop                 | Maven Analytics                              |
+| Management Development Program             | NTPC school of business & IIM-A              |
+| BI Analyst                                 | 365 Careers & Udemy                          |
+| Microsoft Power BI                         | Udemy                                        |
+| Tableau for data science                   | Super data science & Udemy                   |
+| Data analysis with Microsoft Excel         | Udemy                                        |
+
 
 <!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
 
