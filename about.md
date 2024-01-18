@@ -15,19 +15,19 @@ In my journey, I have demonstrated a remarkable track record in project leadersh
 
 My expertise encompasses a spectrum of areas including:
 
-- **Business Analysis / Management Consulting:** Offering a keen understanding of business processes and a talent for devising effective solutions using different frameworks like Agile, Waterfall, etc.
+> **Business Analysis / Management Consulting:** Offering a keen understanding of business processes and a talent for devising effective solutions using different frameworks like Agile, Waterfall, etc.
 
-- **Data-Driven Decision-Making:** Proficient in Data Strategy, Analysis, and Visualization, utilizing tools such as Microsoft Excel, SQL, Microsoft Power BI, and Tableau to extract meaningful insights.
+> **Data-Driven Decision-Making:** Proficient in Data Strategy, Analysis, and Visualization, utilizing tools such as Microsoft Excel, SQL, Microsoft Power BI, and Tableau to extract meaningful insights.
 
-- **Business Strategy Formation:** Adept at crafting robust business strategies that drive growth and innovation.
+> **Business Strategy Formation:** Adept at crafting robust business strategies that drive growth and innovation.
 
-- **Elicitation & Collaboration:** Skilled in gathering requirements through effective communication and collaboration with diverse stakeholders.
+> **Elicitation & Collaboration:** Skilled in gathering requirements through effective communication and collaboration with diverse stakeholders.
 
-- **Requirement Analysis:** Ensuring a comprehensive understanding of project requirements for seamless execution using various documentation as well as methods like BRD, FRD, User Stories, Use Case, etc.
+> **Requirement Analysis:** Ensuring a comprehensive understanding of project requirements for seamless execution using various documentation as well as methods like BRD, FRD, User Stories, Use Case, etc.
 
-- **Business Plan and Strategy Formation:** Developing impactful business plans that align with organizational objectives.
+> **Business Plan and Strategy Formation:** Developing impactful business plans that align with organizational objectives.
 
-- **Team Leadership and Collaboration:** A proven leader with the ability to foster collaboration and achieve collective goals.
+> **Team Leadership and Collaboration:** A proven leader with the ability to foster collaboration and achieve collective goals.
 
 I bring a dynamic skill set coupled with hands-on experience in handling intricate data analyses and visualizations. My proficiency in technical tools such as Microsoft Excel, SQL, Microsoft Power BI, JIRA, Microsoft Visio, Axure, and Tableau underscores my commitment to staying at the forefront of industry advancements.
 
@@ -42,26 +42,20 @@ I firmly believe in keeping myself updated and adapting felexibility with aiming
 
 Do explore below mentioned some of my learnings ...
 
->  Internships
 
-| **Internship**                             | **Certified by**                             |
-| ------------------------------------------ | -------------------------------------------- |
-| Technical Consulting                       | SAP - USA                                    |
-| Agile methodology                          | Cognizant - USA                              |
-| Data analytics with Power BI               | Pwc - Switzerland                            |
-| Data analytics                             | Accenture - USA                              |
-| Data analytics                             | KPMG - Australia                             |
-| Data analytics                             | ANZ Bank - New Zealand                       |
-
->  Certifications
-
-| **Certification**                          | **Certified by**                             |
+| **Certifications**                         | **Certified by**                             |
 | ------------------------------------------ | -------------------------------------------- |
 | Project Management                         | Google & Coursera - To be completed by 04/24 |
-| Essential Generative AI                    | Microsoft & LinkedIn                         |
+| Technical Consulting                       | SAP - USA                                    |
 | Decision intelligence                      | LinkedIn                                     |
 | Generative AI for Business Leaders         | LinkedIn                                     |
 | Generative AI for Project Management       | LinkedIn                                     |
+| Agile methodology                          | Cognizant - USA                              |
+| Data analytics with Power BI               | Pwc - Switzerland                            |
+| Essential Generative AI                    | Microsoft & LinkedIn                         |
+| Data analytics                             | Accenture - USA                              |
+| Data analytics                             | KPMG - Australia                             |
+| Data analytics                             | ANZ Bank - New Zealand                       |
 | Data Strategy                              | Bernard Marr & 365 Careers                   |
 | Power BI - Data Modelling                  | Microsoft                                    |
 | IT Business Analysis                       | Udemy                                        |
