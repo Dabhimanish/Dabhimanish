@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Seasoned Consultants,
+# Seasoned Freelance Consultants,
 
 ## Driving success through strategic consultancy
