@@ -43,29 +43,29 @@ I firmly believe in keeping myself updated and adapting felexibility with aiming
 Do explore below mentioned some of my learnings ...
 
 
-| **Certifications**                         | **Certified by**                             |
-| ------------------------------------------ | -------------------------------------------- |
-| Project Management                         | Google & Coursera - To be completed by 04/24 |
-| Technical Consulting                       | SAP - USA                                    |
-| Decision intelligence                      | LinkedIn                                     |
-| Generative AI for Business Leaders         | LinkedIn                                     |
-| Generative AI for Project Management       | LinkedIn                                     |
-| Agile methodology                          | Cognizant - USA                              |
-| Data analytics with Power BI               | Pwc - Switzerland                            |
-| Essential Generative AI                    | Microsoft & LinkedIn                         |
-| Data analytics                             | Accenture - USA                              |
-| Data analytics                             | KPMG - Australia                             |
-| Data analytics                             | ANZ Bank - New Zealand                       |
-| Data Strategy                              | Bernard Marr & 365 Careers                   |
-| Power BI - Data Modelling                  | Microsoft                                    |
-| IT Business Analysis                       | Udemy                                        |
-| SQL for Data Analytics                     | Start-tech Academy                           |
-| Microsoft Power BI Desktop                 | Maven Analytics                              |
-| Management Development Program             | NTPC school of business & IIM-A              |
-| BI Analyst                                 | 365 Careers & Udemy                          |
-| Microsoft Power BI                         | Udemy                                        |
-| Tableau for data science                   | Super data science & Udemy                   |
-| Data analysis with Microsoft Excel         | Udemy                                        |
+| **Certifications**                            | **Certified by**                                |
+| --------------------------------------------- | ----------------------------------------------- |
+| Project Management                            | Google & Coursera - To be completed by 04/24    |
+| Technical Consulting                          | SAP - USA                                       |
+| Decision intelligence                         | LinkedIn                                        |
+| Generative AI for Business Leaders            | LinkedIn                                        |
+| Generative AI for Project Management          | LinkedIn                                        |
+| Agile methodology                             | Cognizant - USA                                 |
+| Data analytics with Power BI                  | Pwc - Switzerland                               |
+| Essential Generative AI                       | Microsoft & LinkedIn                            |
+| Data analytics                                | Accenture - USA                                 |
+| Data analytics                                | KPMG - Australia                                |
+| Data analytics                                | ANZ Bank - New Zealand                          |
+| Data Strategy                                 | Bernard Marr & 365 Careers                      |
+| Power BI - Data Modelling                     | Microsoft                                       |
+| IT Business Analysis                          | Udemy                                           |
+| SQL for Data Analytics                        | Start-tech Academy                              |
+| Microsoft Power BI Desktop                    | Maven Analytics                                 |
+| Management Development Program                | NTPC school of business & IIM-A                 |
+| BI Analyst                                    | 365 Careers & Udemy                             |
+| Microsoft Power BI                            | Udemy                                           |
+| Tableau for data science                      | Super data science & Udemy                      |
+| Data analysis with Microsoft Excel            | Udemy                                           |
 
 
 <!-- ![Accounting Services]("C:\Users\mmdab\Downloads\20220727_103508.jpg") -->
