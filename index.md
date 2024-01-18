@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Home of Seasoned Consultants.
+# Seasoned Consultants,
 
-Driving success through strategic consultancy
+## Driving success through strategic consultancy
