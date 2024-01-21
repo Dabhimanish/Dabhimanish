@@ -4,9 +4,9 @@ layout: contact
 description: Contact
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
   <a href="/images/Task Management - 640x427.png">
-    <img src="/images/Task Management - 640x427.png" alt=" " style="width: 640px; height: 500px; margin-right: 50px;">
+    <img src="/images/Task Management - 640x427.png" alt=" " style="width: 800px; height: 500px; margin-right: 100px;">
   </a>
   <div>
 
