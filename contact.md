@@ -6,7 +6,7 @@ description: Contact
 
 <div style="display: flex; align-items: center;">
   <a href="/images/Task Management - 640x427.png">
-    <img src="/images/Task Management - 640x427.png" alt=" " style="width: 1000px; height: 450px; margin-right: 100px;">
+    <img src="/images/Task Management - 640x427.png" alt=" " style="width: 900px; height: 350px; margin-right: 100px;">
   </a>
   <div>
   
