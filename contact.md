@@ -5,8 +5,8 @@ description: Contact
 ---
 
 <div style="display: flex; align-items: center;">
-  <a href="Dabhimanish/Dabhimanish/images/Task Management - 640x427.png">
-    <img src="Dabhimanish/Dabhimanish/images/Task Management - 640x427.png" alt="Alt Text" style="width: 100px; height: 100px; margin-right: 20px;">
+  <a href="images/Task Management - 640x427.png">
+    <img src="images/Task Management - 640x427.png" alt="Alt Text" style="width: 100px; height: 100px; margin-right: 20px;">
   </a>
   <p>
 
